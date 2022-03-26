@@ -31,7 +31,7 @@ THEN I AM PRESENTED WITH RESULTS LISTING VARIOUS FLIGHTS TO MY DESTINATION OF CH
 https://joshahuynh.github.io/trip-advisor/ 
 
 ## Screenshot
-![](./assets/Images/screenshot.PNG)
+![](./assets/images/screenshot.PNG)
 
 
 ## Contribution
