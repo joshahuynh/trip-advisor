@@ -175,7 +175,7 @@ function GetInfo() {
                     var address=data.address.house_number + " " + data.address.road
                     let poi=document.querySelector("#poi")
                     poi.innerHTML=""; 
-                    poi.innerHTML+=`<img class="responsive-img" src="${data.preview.source}">`
+                    poi.innerHTML+=`<img class="responsive-img" alt="picture for the following attraction" src="${data.preview.source}">`
                     poi.innerHTML+=`<p> Address: ` + address
                     poi.innerHTML += data.wikipedia_extracts
                     ? data.wikipedia_extracts.html
