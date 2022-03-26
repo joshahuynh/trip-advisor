@@ -28,7 +28,7 @@ THEN I AM PRESENTED WITH RESULTS LISTING VARIOUS FLIGHTS TO MY DESTINATION OF CH
 
 ## Website
 
-https://shuanlim.github.io/week-7-challenge/ 
+https://joshahuynh.github.io/trip-advisor/ 
 
 ## Screenshot
 ![](./assets/Images/screenshot.PNG)
